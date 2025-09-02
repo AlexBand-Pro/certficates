@@ -14,6 +14,8 @@ A collection of the certificates I’ve earned while learning web development an
 
 ![Responsive Design Certificate](responsive-design-certificate.png)
 
+## 🎨 The Frontend Developer Carreer Path 
+
 <img width="1028" height="697" alt="front-end-scrimba-certificate" src="https://github.com/user-attachments/assets/793e4990-5a98-40b8-9ae1-6c13873dd7ed" />
 
 
